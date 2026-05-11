@@ -45,7 +45,6 @@ Ajoutez ces topics dans les settings GitHub du repository:
 - openai-moderation
 - ga4
 - pi-project
-- esprit
 - webapp
 
 ## Stack technique
@@ -77,7 +76,7 @@ vendor/          Dependances Composer
 
 ```bash
 git clone <repo_url>
-cd PI_3A43
+
 ```
 
 2. Installer les dependances
@@ -144,28 +143,6 @@ Application disponible sur `http://127.0.0.1:8000/home`.
 - Issues: labels (`bug`, `enhancement`, `documentation`, `question`)
 - Protection de branche: review obligatoire + checks CI
 
-## Proposition de structure README (reference)
-
-1. Titre + slogan projet
-2. Description metier
-3. Objectifs
-4. Stack technique
-5. Architecture / arborescence
-6. Installation et configuration
-7. Utilisation (scenarios)
-8. Donnees de test
-9. Qualite (tests, lint, CI)
-10. Workflow GitHub
-11. Equipe et contributions
-12. Licence
-
-## Equipe
-
-Renseigner ici:
-
-- nom des membres
-- roles
-- liens GitHub
 
 ## Licence
 
